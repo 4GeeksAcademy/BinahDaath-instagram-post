@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+}
+.card {
+    background-color: white;
+    color: black;
+    width: 1000px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.top {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.top-left {
+    display: flex;
+    flex-direction: row;
+}
+.top-right {
+
+}
+.image {
+    height: 400px;
+    background-image: url("https://placehold.co/900x400");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.icone {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.icone-left {
+    display: flex;
+    flex-direction: row;
+}
+button {
+    height: 20px;
+    width: 20px;
+}
