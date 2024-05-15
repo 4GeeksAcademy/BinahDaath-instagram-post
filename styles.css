@@ -24,8 +24,8 @@ body {
 
 }
 .image {
-    height: 400px;
-    background-image: url("https://placehold.co/900x400");
+    height: 600px;
+    background-image: url("https://placehold.co/700x600");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
