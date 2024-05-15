@@ -48,3 +48,9 @@ button {
     flex-direction: column;
     gap: 10px;   
 }
+.you_are_giving_me_problem{
+    margin: 0px;
+}
+.you_are_giving_me_problem1{
+    margin-top: 10px;
+}
